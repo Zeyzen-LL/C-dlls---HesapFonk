@@ -1,0 +1,10 @@
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\odev\odev\obj\Debug\171220025.csprojAssemblyReference.cache
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\odev\odev\obj\Debug\ipdOdev.Form1.resources
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\odev\odev\obj\Debug\odev.Properties.Resources.resources
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\odev\odev\obj\Debug\171220025.csproj.GenerateResource.cache
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\odev\odev\obj\Debug\171220025.csproj.CoreCompileInputs.cache
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\odev\odev\obj\Debug\odev.exe
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\odev\odev\obj\Debug\odev.pdb
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\odev\odev\bin\Debug\odev.exe.config
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\odev\odev\bin\Debug\odev.exe
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\odev\odev\bin\Debug\odev.pdb

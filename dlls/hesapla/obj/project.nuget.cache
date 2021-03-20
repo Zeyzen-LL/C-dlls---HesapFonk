@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aMTyLTXTZFDv3Ehly/kQ1rsqv3mV9d8kO96ye7mZZSpizVDzpJuQhM/m0BiaJQGp4hKmSoP//e7m/cE8t8ov6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omara\\Desktop\\Ödevler\\ileri prog\\kod\\dlls\\hesapla\\hesapla.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omara\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\omara\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

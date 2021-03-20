@@ -1,0 +1,9 @@
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\toplama\bin\Debug\netstandard2.0\toplama.deps.json
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\toplama\bin\Debug\netstandard2.0\toplama.dll
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\toplama\bin\Debug\netstandard2.0\toplama.pdb
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\toplama\obj\Debug\netstandard2.0\toplama.csprojAssemblyReference.cache
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\toplama\obj\Debug\netstandard2.0\toplama.csproj.CoreCompileInputs.cache
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\toplama\obj\Debug\netstandard2.0\toplama.AssemblyInfoInputs.cache
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\toplama\obj\Debug\netstandard2.0\toplama.AssemblyInfo.cs
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\toplama\obj\Debug\netstandard2.0\toplama.dll
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\toplama\obj\Debug\netstandard2.0\toplama.pdb

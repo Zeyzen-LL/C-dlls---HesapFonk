@@ -1,0 +1,17 @@
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\cikar\bin\Debug\netstandard2.0\cikarma.deps.json
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\cikar\bin\Debug\netstandard2.0\cikarma.dll
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\cikar\bin\Debug\netstandard2.0\cikarma.pdb
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\cikar\obj\Debug\netstandard2.0\cikarma.csproj.CoreCompileInputs.cache
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\cikar\obj\Debug\netstandard2.0\cikarma.AssemblyInfoInputs.cache
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\cikar\obj\Debug\netstandard2.0\cikarma.AssemblyInfo.cs
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\cikar\obj\Debug\netstandard2.0\cikarma.dll
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\cikar\obj\Debug\netstandard2.0\cikarma.pdb
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\cikarma\bin\Debug\netstandard2.0\cikarma.deps.json
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\cikarma\bin\Debug\netstandard2.0\cikarma.dll
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\cikarma\bin\Debug\netstandard2.0\cikarma.pdb
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\cikarma\obj\Debug\netstandard2.0\cikarma.csproj.CoreCompileInputs.cache
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\cikarma\obj\Debug\netstandard2.0\cikarma.AssemblyInfoInputs.cache
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\cikarma\obj\Debug\netstandard2.0\cikarma.AssemblyInfo.cs
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\cikarma\obj\Debug\netstandard2.0\cikarma.dll
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\cikarma\obj\Debug\netstandard2.0\cikarma.pdb
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\cikarma\obj\Debug\netstandard2.0\cikarma.csprojAssemblyReference.cache

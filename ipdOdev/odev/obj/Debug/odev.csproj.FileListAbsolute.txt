@@ -1,0 +1,20 @@
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\odev\odev\bin\Debug\odev.exe.config
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\odev\odev\bin\Debug\odev.exe
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\odev\odev\bin\Debug\odev.pdb
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\odev\odev\obj\Debug\odev.csprojAssemblyReference.cache
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\odev\odev\obj\Debug\odev.Form1.resources
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\odev\odev\obj\Debug\odev.Properties.Resources.resources
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\odev\odev\obj\Debug\odev.csproj.GenerateResource.cache
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\odev\odev\obj\Debug\odev.csproj.CoreCompileInputs.cache
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\odev\odev\obj\Debug\odev.exe
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\odev\odev\obj\Debug\odev.pdb
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\odev\odev\bin\Debug\odev.exe.config
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\odev\odev\bin\Debug\odev.exe
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\odev\odev\bin\Debug\odev.pdb
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\odev\odev\obj\Debug\odev.csprojAssemblyReference.cache
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\odev\odev\obj\Debug\odev.Form1.resources
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\odev\odev\obj\Debug\odev.Properties.Resources.resources
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\odev\odev\obj\Debug\odev.csproj.GenerateResource.cache
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\odev\odev\obj\Debug\odev.csproj.CoreCompileInputs.cache
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\odev\odev\obj\Debug\odev.exe
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\odev\odev\obj\Debug\odev.pdb

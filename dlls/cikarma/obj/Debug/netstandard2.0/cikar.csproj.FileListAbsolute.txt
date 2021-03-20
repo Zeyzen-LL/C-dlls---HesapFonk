@@ -1,0 +1,16 @@
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\cikar\bin\Debug\netstandard2.0\cikar.deps.json
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\cikar\bin\Debug\netstandard2.0\cikar.dll
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\cikar\bin\Debug\netstandard2.0\cikar.pdb
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\cikar\obj\Debug\netstandard2.0\cikar.AssemblyInfoInputs.cache
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\cikar\obj\Debug\netstandard2.0\cikar.AssemblyInfo.cs
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\cikar\obj\Debug\netstandard2.0\cikar.csproj.CoreCompileInputs.cache
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\cikar\obj\Debug\netstandard2.0\cikar.dll
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\cikar\obj\Debug\netstandard2.0\cikar.pdb
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\cikar\bin\Debug\netstandard2.0\cikar.deps.json
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\cikar\bin\Debug\netstandard2.0\cikar.dll
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\cikar\bin\Debug\netstandard2.0\cikar.pdb
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\cikar\obj\Debug\netstandard2.0\cikar.csproj.CoreCompileInputs.cache
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\cikar\obj\Debug\netstandard2.0\cikar.AssemblyInfoInputs.cache
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\cikar\obj\Debug\netstandard2.0\cikar.AssemblyInfo.cs
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\cikar\obj\Debug\netstandard2.0\cikar.dll
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\cikar\obj\Debug\netstandard2.0\cikar.pdb

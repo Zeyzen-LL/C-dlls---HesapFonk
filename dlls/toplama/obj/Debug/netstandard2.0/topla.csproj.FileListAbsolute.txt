@@ -1,0 +1,16 @@
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\topla\bin\Debug\netstandard2.0\topla.deps.json
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\topla\bin\Debug\netstandard2.0\topla.dll
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\topla\bin\Debug\netstandard2.0\topla.pdb
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\topla\obj\Debug\netstandard2.0\topla.AssemblyInfoInputs.cache
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\topla\obj\Debug\netstandard2.0\topla.AssemblyInfo.cs
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\topla\obj\Debug\netstandard2.0\topla.csproj.CoreCompileInputs.cache
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\topla\obj\Debug\netstandard2.0\topla.dll
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\topla\obj\Debug\netstandard2.0\topla.pdb
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\topla\bin\Debug\netstandard2.0\topla.deps.json
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\topla\bin\Debug\netstandard2.0\topla.dll
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\topla\bin\Debug\netstandard2.0\topla.pdb
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\topla\obj\Debug\netstandard2.0\topla.csproj.CoreCompileInputs.cache
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\topla\obj\Debug\netstandard2.0\topla.AssemblyInfoInputs.cache
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\topla\obj\Debug\netstandard2.0\topla.AssemblyInfo.cs
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\topla\obj\Debug\netstandard2.0\topla.dll
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\topla\obj\Debug\netstandard2.0\topla.pdb

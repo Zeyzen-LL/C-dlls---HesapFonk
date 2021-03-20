@@ -1,0 +1,18 @@
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\bolme\bin\Debug\netstandard2.0\bolme.deps.json
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\bolme\bin\Debug\netstandard2.0\bolme.dll
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\bolme\bin\Debug\netstandard2.0\bolme.pdb
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\bolme\obj\Debug\netstandard2.0\bolme.AssemblyInfoInputs.cache
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\bolme\obj\Debug\netstandard2.0\bolme.AssemblyInfo.cs
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\bolme\obj\Debug\netstandard2.0\bolme.csproj.CoreCompileInputs.cache
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\bolme\obj\Debug\netstandard2.0\bolme.dll
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\bolme\obj\Debug\netstandard2.0\bolme.pdb
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\bolme\obj\Debug\netstandard2.0\bolme.csprojAssemblyReference.cache
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\bolme\bin\Debug\netstandard2.0\bolme.deps.json
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\bolme\bin\Debug\netstandard2.0\bolme.dll
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\bolme\bin\Debug\netstandard2.0\bolme.pdb
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\bolme\obj\Debug\netstandard2.0\bolme.csprojAssemblyReference.cache
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\bolme\obj\Debug\netstandard2.0\bolme.csproj.CoreCompileInputs.cache
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\bolme\obj\Debug\netstandard2.0\bolme.AssemblyInfoInputs.cache
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\bolme\obj\Debug\netstandard2.0\bolme.AssemblyInfo.cs
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\bolme\obj\Debug\netstandard2.0\bolme.dll
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\bolme\obj\Debug\netstandard2.0\bolme.pdb

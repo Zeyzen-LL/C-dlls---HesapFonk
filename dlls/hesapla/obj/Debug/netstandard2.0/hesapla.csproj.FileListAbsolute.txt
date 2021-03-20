@@ -1,0 +1,17 @@
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\hesapla\bin\Debug\netstandard2.0\hesapla.deps.json
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\hesapla\bin\Debug\netstandard2.0\hesapla.dll
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\hesapla\bin\Debug\netstandard2.0\hesapla.pdb
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\hesapla\obj\Debug\netstandard2.0\hesapla.AssemblyInfoInputs.cache
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\hesapla\obj\Debug\netstandard2.0\hesapla.AssemblyInfo.cs
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\hesapla\obj\Debug\netstandard2.0\hesapla.csproj.CoreCompileInputs.cache
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\hesapla\obj\Debug\netstandard2.0\hesapla.dll
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\hesapla\obj\Debug\netstandard2.0\hesapla.pdb
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\hesapla\bin\Debug\netstandard2.0\hesapla.deps.json
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\hesapla\bin\Debug\netstandard2.0\hesapla.dll
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\hesapla\bin\Debug\netstandard2.0\hesapla.pdb
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\hesapla\obj\Debug\netstandard2.0\hesapla.csprojAssemblyReference.cache
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\hesapla\obj\Debug\netstandard2.0\hesapla.csproj.CoreCompileInputs.cache
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\hesapla\obj\Debug\netstandard2.0\hesapla.AssemblyInfoInputs.cache
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\hesapla\obj\Debug\netstandard2.0\hesapla.AssemblyInfo.cs
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\hesapla\obj\Debug\netstandard2.0\hesapla.dll
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\hesapla\obj\Debug\netstandard2.0\hesapla.pdb

@@ -1,0 +1,17 @@
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\carpma\bin\Debug\netstandard2.0\carpma.deps.json
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\carpma\bin\Debug\netstandard2.0\carpma.dll
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\carpma\bin\Debug\netstandard2.0\carpma.pdb
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\carpma\obj\Debug\netstandard2.0\carpma.AssemblyInfoInputs.cache
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\carpma\obj\Debug\netstandard2.0\carpma.AssemblyInfo.cs
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\carpma\obj\Debug\netstandard2.0\carpma.csproj.CoreCompileInputs.cache
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\carpma\obj\Debug\netstandard2.0\carpma.dll
+C:\Users\omara\Desktop\Ödevler\ileri prog\kod\dlls\carpma\obj\Debug\netstandard2.0\carpma.pdb
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\carpma\bin\Debug\netstandard2.0\carpma.deps.json
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\carpma\bin\Debug\netstandard2.0\carpma.dll
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\carpma\bin\Debug\netstandard2.0\carpma.pdb
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\carpma\obj\Debug\netstandard2.0\carpma.csprojAssemblyReference.cache
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\carpma\obj\Debug\netstandard2.0\carpma.csproj.CoreCompileInputs.cache
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\carpma\obj\Debug\netstandard2.0\carpma.AssemblyInfoInputs.cache
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\carpma\obj\Debug\netstandard2.0\carpma.AssemblyInfo.cs
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\carpma\obj\Debug\netstandard2.0\carpma.dll
+C:\Users\AbdullahGN\Desktop\ileriprog\kod\dlls\carpma\obj\Debug\netstandard2.0\carpma.pdb
